@@ -1,5 +1,7 @@
 # goodapple-frames
 
+**this project is complete**
+
 good apple (bad apple inverted) frames for you to have
 you can either
 - get the video file
